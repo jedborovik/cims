@@ -25,7 +25,7 @@ $ cims upload <path-to-file>
 $ cims download <path-to-file>
 ```
 
-#Use cims version of matlab
+##Use cims version of matlab
 ```bash
 $ cims matlab
 ```
